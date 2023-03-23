@@ -1,0 +1,38 @@
+.list-item-card {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  background-color: #1e293b;
+  border-radius: 15px;
+  margin: 20px;
+  width: 20vw;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.competing-team-card-logo {
+  height: 120px;
+  width: 120px;
+}
+.competing-team-name-card {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 18px;
+}
+.match-status-lost {
+  font-family: 'Roboto';
+  color: #e31a1a;
+  font-size: 20px;
+}
+.match-status-won {
+  font-family: 'Roboto';
+  color: #18ed66;
+  font-size: 20px;
+}
+.match-result {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+}

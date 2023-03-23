@@ -1,0 +1,24 @@
+.team-matches-container {
+  width: 100%;
+  background-size: cover;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner-url {
+  background-size: cover;
+  width: 100%;
+}
+.ipl-list-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.loader-container-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

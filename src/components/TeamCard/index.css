@@ -1,0 +1,25 @@
+.list-item {
+  list-style-type: none;
+  border: 1px solid #475569;
+  padding: 20px;
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+.card-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.ipl-team-image {
+  height: 120px;
+  width: 120px;
+}
+.ipl-team-name {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 15px;
+}
